@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_noticias_portada"
+            android:icon="@drawable/ic_description_black_24dp"
+            android:title="@string/portada" />
+        <item
+            android:id="@+id/nav_noticias_programas"
+            android:icon="@drawable/ic_format_list_bulleted_black_24dp"
+            android:title="@string/programas" />
+        <item
+            android:id="@+id/nav_podcast"
+            android:icon="@drawable/ic_radio_black_24dp"
+            android:title="@string/podcast" />
+        <!--item
+            android:id="@+id/nav_el_programa"
+            android:icon="@drawable/ic_group_black_24dp"
+            android:title="@string/el_programa" /-->
+
+    </group>
+
+    <item android:title="@string/comunicacion">
+        <menu>
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/ic_menu_share"
+                android:title="@string/compartir" />
+            <!--item
+                android:id="@+id/nav_send"
+                android:icon="@drawable/ic_menu_send"
+                android:title="@string/enviar" /-->
+            <item
+                android:id="@+id/nav_blog"
+                android:icon="@drawable/ic_web_black_24dp"
+                android:title="@string/social_blog" />
+            <item
+                android:id="@+id/nav_twitter"
+                android:icon="@drawable/ic_comment_black_24dp"
+                android:title="@string/social_twitter" />
+            <item
+                android:id="@+id/nav_facebook"
+                android:icon="@drawable/ic_thumb_up_black_24dp"
+                android:title="@string/social_facebook" />
+        </menu>
+    </item>
+
+    <item android:title="@string/aplicacion">
+        <menu>
+
+            <item
+                android:id="@+id/nav_appinfo"
+                android:icon="@drawable/ic_person_black_24dp"
+                android:title="@string/appinfo" />
+
+            <item
+                android:id="@+id/nav_manage"
+                android:icon="@drawable/ic_menu_manage"
+                android:title="@string/preferencias" />
+
+
+        </menu>
+    </item>
+
+</menu>

@@ -1,0 +1,11 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="alberapps.android.cinturondeorion.noticias.detalle.DetalleNoticiaActivity">
+    <!--item
+        android:id="@+id/menu_item_share"
+        app:showAsAction="ifRoom"
+        android:title="@string/compartir"
+        app:actionProviderClass="android.support.v7.widget.ShareActionProvider" /-->
+
+</menu>

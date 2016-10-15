@@ -1,0 +1,204 @@
+<resources>
+    <string name="app_name">El Cinturón de Orión</string>
+
+    <string name="app_version" translatable="false">0.5</string>
+
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="cinturonorion">El Cinturón de Orión</string>
+    <string name="urlcinturon">cinturondeorion.com</string>
+    <string name="title_activity_informacion">InformacionActivity</string>
+    <string name="large_text">
+        "Programa semanal que enfoca su luz hacia la ciencia en general y hacia la astronomía en particular.\n\n"
+
+        "Ciencia, astronomía, entrevistas, debates..."
+    </string>
+    <string name="error_red">Error en la conexión</string>
+    <string name="sin_informacion">Sin informacion</string>
+
+
+    <string name="favorite">Favorite</string>
+    <string name="error_no_metadata">Unable to retrieve metadata.</string>
+    <string name="browse_genres">Podcasts El Cinturón de Orión</string>
+    <string name="browse_genre_subtitle">En Radio San Vicente</string>
+    <string name="browse_musics_by_genre_subtitle">El Cinturón de Orión %1$s podcasts</string>
+    <string name="random_queue_title">Random music</string>
+    <string name="error_no_connection">Cannot connect to server. Please, check your Internet connectivity.</string>
+    <string name="error_loading_media">Error Loading Media</string>
+    <string name="casting_to_device">Casting to %1$s</string>
+    <string name="currently_playing_song">Song currently playing</string>
+    <string name="currently_playing_artist">Artist of currently playing song</string>
+    <string name="currently_playing_extra_info">Extra info for currently playing song</string>
+    <string name="play_item">Play item</string>
+    <string name="play_pause">play or pause</string>
+    <string name="skip_next">skip to next</string>
+    <string name="skip_prev">skip to previous</string>
+    <string name="touch_to_cast">Touch to connect to a Google Cast device</string>
+    <!-- Use the default receiver. To customize a styled media receiver, you can use
+         the css and images under <project-root>/docs/cast_styled_receiver -->
+
+    <string name="home_title">Home</string>
+    <string name="related_content_header">You may also like</string>
+    <string name="action_listen">Listen</string>
+    <string name="open_content_drawer">Open the main menu</string>
+    <string name="close_content_drawer">Close the main menu</string>
+    <string name="placeholder_message">This is a placeholder for your application code.</string>
+    <string name="drawer_allmusic_title">All Music</string>
+    <string name="drawer_playlists_title">Playlists</string>
+    <string name="now_playing">Now Playing</string>
+    <string name="background_image_str">Background image for album art</string>
+    <string name="search_queue_title">Search results</string>
+    <string name="no_search_results">No search results.</string>
+    <string name="loading">Loading…</string>
+    <string name="media_route_menu_title">Play on…</string>
+    <string name="preferencias">Preferencias</string>
+    <string name="comunicacion">Comunicación</string>
+    <string name="compartir">Compartir</string>
+    <string name="enviar">Enviar</string>
+    <string name="podcast">Podcast</string>
+    <string name="informacion">El Programa</string>
+    <string name="title_activity_detalle_noticia">Noticia CDO</string>
+    <string name="title_activity_settings">Settings</string>
+
+    <!-- Strings related to Settings -->
+
+    <!-- Example General settings -->
+    <string name="pref_header_general">General</string>
+
+    <string name="pref_title_social_recommendations">Enable social recommendations</string>
+    <string name="pref_description_social_recommendations">Recommendations for people to contact
+        based on your message history
+    </string>
+
+    <string name="pref_title_display_name">Display name</string>
+    <string name="pref_default_display_name">John Smith</string>
+
+    <string name="pref_title_add_friends_to_messages">Add friends to messages</string>
+    <string-array name="pref_example_list_titles">
+        <item>Always</item>
+        <item>When possible</item>
+        <item>Never</item>
+    </string-array>
+    <string-array name="pref_example_list_values">
+        <item>1</item>
+        <item>0</item>
+        <item>-1</item>
+    </string-array>
+
+    <!-- Example settings for Data & Sync -->
+    <string name="pref_header_data_sync">Data &amp; sync</string>
+
+    <string name="pref_title_sync_frequency">Sync frequency</string>
+    <string-array name="pref_sync_frequency_titles">
+        <item>15 minutes</item>
+        <item>30 minutes</item>
+        <item>1 hour</item>
+        <item>3 hours</item>
+        <item>6 hours</item>
+        <item>Never</item>
+    </string-array>
+    <string-array name="pref_sync_frequency_values">
+        <item>15</item>
+        <item>30</item>
+        <item>60</item>
+        <item>180</item>
+        <item>360</item>
+        <item>-1</item>
+    </string-array>
+
+    <string name="pref_title_system_sync_settings">System sync settings</string>
+
+    <!-- Example settings for Notifications -->
+    <string name="pref_header_notifications">Notifications</string>
+
+    <string name="pref_title_new_message_notifications">New message notifications</string>
+
+    <string name="pref_title_ringtone">Ringtone</string>
+    <string name="pref_ringtone_silent">Silent</string>
+
+    <string name="pref_title_vibrate">Vibrate</string>
+    <string name="title_activity_info">InfoActivity</string>
+    <string name="error_datos">Error al recuperar la informacion</string>
+
+    <string name="portada">Portada</string>
+    <string name="programas">Programas</string>
+    <string name="el_programa">El Programa</string>
+    <string name="cargando">Cargando...</string>
+    <string name="share_principal">El Cinturón de Orión - Ciencia y Astronomía en Radio San Vicente http://www.cinturondeorion.com</string>
+    <string name="share_noticia">El Cinturón de Orión: </string>
+    <string name="detalle_cdo">CDO</string>
+
+    <string name="social_twitter">Twitter</string>
+    <string name="social_facebook">Fecebook</string>
+    <string name="social_blog">cinturondeorion.com</string>
+
+
+
+    <string name="detalle_licencia">
+   El Cinturón de Orión - Información y podcast del programa de radio El Cinturón de Orión de Radio San Vicente\n
+   Copyright © 2016 Alberto Montiel\n\n
+
+   This program is free software: you can redistribute it and/or modify
+   it under the terms of the GNU General Public License as published by
+   the Free Software Foundation, either version 3 of the License, or
+   (at your option) any later version.\n\n
+
+   This program is distributed in the hope that it will be useful,
+   but WITHOUT ANY WARRANTY; without even the implied warranty of
+   MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+   GNU General Public License for more details.\n\n
+
+   You should have received a copy of the GNU General Public License
+   along with this program.  If not, see http://www.gnu.org/licenses.\n
+
+   </string>
+
+
+    <string name="legal_b">
+		Los nombres de empresas y logotipos de estas o sus productos, así como los datos obtenidos de sus páginas web, son propiedad de sus respectivos titulares y son reconocidos por esta aplicación.
+	</string>
+
+    <string name="referencias">Referencias</string>
+
+    <string name="referencias_infoapp" translatable="false">JSoup jsoup.org - MIT http://jsoup.org/license\n
+        Google Material Design github.com/google/material-design-icons - http://creativecommons.org/licenses/by/4.0 \n
+        UniversalMusicPlayer github.com/googlesamples/android-UniversalMusicPlayer - Apache http://www.apache.org/licenses/LICENSE-2.0 \n
+        Imagen de fondo https://commons.wikimedia.org/wiki/File:Orion_Watching_Over_ALMA.jpg - http://creativecommons.org/licenses/by/3.0
+	</string>
+
+    <string name="aviso_legal_analytics">
+    Aviso legal de Google Analytics
+    \nEsta aplicación utiliza Google Analytics, un servicio analítico de web prestado por Google, Inc., una compañía de Delaware cuya oficina principal esta en 1600 Amphitheatre Parkway, Mountain View (California), CA 94043, Estados Unidos (\"Google\").
+	La información que genera acerca de su uso de la aplicación (incluyendo su dirección IP) será directamente transmitida y archivada por Google en los servidores de Estados Unidos. Google usará esta información por cuenta nuestra con el propósito de seguir la pista de su uso de la aplicación, recopilando informes de la actividad de la aplicación y prestando otros servicios relacionados con la actividad de la aplicación y el uso de Internet. Google podrá transmitir dicha información a terceros cuando así se lo requiera la legislación, o cuando dichos terceros procesen la información por cuenta de Google. Google no asociará su dirección IP con ningún otro dato del que disponga Google.
+	Puede Usted rechazar el tratamiento de los datos o la información rechazando el uso de esta función mediante la selección de la configuración apropiada en las preferencias de la aplicación, sin embargo, esto dificultará al desarrollador el estudio de nuevas funciones y el análisis de errores. Al utilizar esta aplicación Usted consiente el tratamiento de información acerca de Usted por Google en la forma y para los fines arriba indicados.
+    </string>
+    <string name="aplicacion">Aplicación</string>
+    <string name="appinfo">Información</string>
+
+
+    <string name="app_licencia" translatable="false">http://www.gnu.org/licenses/gpl.html</string>
+    <string name="app_autor" translatable="false">Alberto Montiel (2016)</string>
+    <string name="app_autor_mail" translatable="false">alberapps@gmail.com</string>
+    <string name="app_autor_web" translatable="false">alberapps.blogspot.com</string>
+    <string name="app_licencia_desc">Licencia GNU GPLv3</string>
+    <string name="acercade_info_nuevo">Aplicación desarrollada para el programa de radio</string>
+    <string name="acercade_info_nuevo_cdo">\"El Cinturón de Orión\"</string>
+
+    <string name="acercade_info_nuevo_2">
+		La informacion y los podcasts se obtienen del blog oficial del programa mantenido por su equipo:</string>
+
+    <string name="acercade_info_cdo_1">El Programa: Manuel Rodriguez de Viguri, Emilia Juárez, Angel Gómez, Javier Armentia, Ismael Pérez, Rubén Torregrosa, Juan José Muñoz</string>
+    <string name="acercade_info_cdo_2">Portal CDO: Juan Vidal, Paloma Marín Arraiza, Julio Martínez, Berta Carreño</string>
+
+    <string name="aviso_cdo">Aviso Legal El Cinturón de Orión: http://www.cinturondeorion.com/aviso-legal/</string>
+    <string name="byalberapps">by AlberApps</string>
+
+
+    <string name="analytics_on">Google Analytics</string>
+    <string name="analytics_on_desc">Permitir el envío de estadísticas anónimas de uso y control de errores</string>
+
+
+</resources>
