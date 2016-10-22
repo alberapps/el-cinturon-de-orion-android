@@ -33,12 +33,12 @@
             </intent-filter>
         </activity>
 
-        <uses-feature
+        <!--uses-feature
             android:name="android.software.leanback"
             android:required="false" />
         <uses-feature
             android:name="android.hardware.touchscreen"
-            android:required="false" />
+            android:required="false" /-->
 
         <!--meta-data
             android:name="com.google.android.gms.car.application"
